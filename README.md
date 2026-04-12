@@ -1,6 +1,6 @@
 ## Hi, I'm Louis 👋
 
-#### A student at CentraleSupélec, but also a systems and Python developer
+#### A student at CentraleSupélec, but also a developper on my free time
 
 - ⚙️ `OCaml · C · Python`
 - 🌍  Available in French or in English
