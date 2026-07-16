@@ -1,5 +1,4 @@
 ## Hi, I'm Louis 👋
-
 I build things from scratch to understand how they work.
 
 ---
